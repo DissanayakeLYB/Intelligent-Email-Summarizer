@@ -1,0 +1,5 @@
+transformers
+torch
+nltk
+spacy 
+rouge-score
